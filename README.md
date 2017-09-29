@@ -4,4 +4,4 @@
 `npm install`
 
 ## Tests
-`npm tests`
+`npm test`
